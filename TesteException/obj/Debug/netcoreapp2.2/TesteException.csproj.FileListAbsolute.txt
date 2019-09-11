@@ -1,0 +1,14 @@
+C:\Users\joaom\source\repos\TesteException\TesteException\bin\Debug\netcoreapp2.2\TesteException.deps.json
+C:\Users\joaom\source\repos\TesteException\TesteException\bin\Debug\netcoreapp2.2\TesteException.runtimeconfig.json
+C:\Users\joaom\source\repos\TesteException\TesteException\bin\Debug\netcoreapp2.2\TesteException.runtimeconfig.dev.json
+C:\Users\joaom\source\repos\TesteException\TesteException\bin\Debug\netcoreapp2.2\TesteException.dll
+C:\Users\joaom\source\repos\TesteException\TesteException\bin\Debug\netcoreapp2.2\TesteException.pdb
+C:\Users\joaom\source\repos\TesteException\TesteException\obj\Debug\netcoreapp2.2\TesteException.csprojAssemblyReference.cache
+C:\Users\joaom\source\repos\TesteException\TesteException\obj\Debug\netcoreapp2.2\TesteException.csproj.CoreCompileInputs.cache
+C:\Users\joaom\source\repos\TesteException\TesteException\obj\Debug\netcoreapp2.2\TesteException.RazorAssemblyInfo.cache
+C:\Users\joaom\source\repos\TesteException\TesteException\obj\Debug\netcoreapp2.2\TesteException.RazorAssemblyInfo.cs
+C:\Users\joaom\source\repos\TesteException\TesteException\obj\Debug\netcoreapp2.2\TesteException.AssemblyInfoInputs.cache
+C:\Users\joaom\source\repos\TesteException\TesteException\obj\Debug\netcoreapp2.2\TesteException.AssemblyInfo.cs
+C:\Users\joaom\source\repos\TesteException\TesteException\obj\Debug\netcoreapp2.2\TesteException.RazorTargetAssemblyInfo.cache
+C:\Users\joaom\source\repos\TesteException\TesteException\obj\Debug\netcoreapp2.2\TesteException.dll
+C:\Users\joaom\source\repos\TesteException\TesteException\obj\Debug\netcoreapp2.2\TesteException.pdb
